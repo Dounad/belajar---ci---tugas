@@ -68,10 +68,7 @@ Ikuti langkah-langkah di bawah ini untuk mengatur dan menjalankan proyek "Ndut M
     Kloning Repositori:
     Bash
 
-git clone https://www.andarepository.com/
-cd belajar-ci-tugas
-
-(Ganti https://www.andarepository.com/ dengan URL repositori Git proyek Anda.)
+git clone https://github.com/Dounad/belajar---ci---tugas
 
 Instal Dependensi:
 Bash
